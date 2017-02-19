@@ -1,24 +1,8 @@
-# README
+# calreact
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[The Free React on Rails 5 course](https://learnetto.com/course_parts/675) on [Learnetto.com](https://learnetto.com/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ruby 2.3.3p222
+* Rails 5.0.1
+* [YouCanBookMe/react-datetime](https://github.com/YouCanBookMe/react-datetime)
+* [Moment.js](https://momentjs.com/)

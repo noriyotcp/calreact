@@ -1,6 +1,5 @@
 // Avoid warning on cloud9
 /* global React */
-/* global appointment */
 
 var Appointment = React.createClass({
   render: function() {

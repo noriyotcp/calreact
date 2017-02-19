@@ -1,12 +1,13 @@
 // Avoid warning on cloud9
 /* global React */
+/* global formatDate */
 
 var Appointment = React.createClass({
   render: function() {
     return (
       <div>
         <h3>{this.props.appointment.title}</h3>
-        <p>{this.props.appointment.appt_time}</p>
+        <p>{formatDate(this.props.appointment.appt_time)}</p>
       </div>
     )
   }
